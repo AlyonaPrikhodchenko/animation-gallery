@@ -1,7 +1,10 @@
 @import "./variables";
 @import "./fonts";
 @import "./mixin";
-@import "./visually-hidden";
-@import "./container";
-@import "./blocks/page";
+@import "./global";
+@import "./blocks/header";
+@import "./blocks/btn-hover";
+@import "./blocks/marquee";
+@import "./blocks/modal";
+@import "./blocks/footer";
 

@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px;
+
+  p {
+    @include fontLato(36px, 1.2, rgba(8, 175, 240, 0.521));
+    margin: 0;
+  }
+}
